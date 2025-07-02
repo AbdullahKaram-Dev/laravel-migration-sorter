@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace AbdullahKaramDev\MigrationSorter\Command;
+namespace AbdullahKaramDev\MigrationSorter\Commands;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Collection;

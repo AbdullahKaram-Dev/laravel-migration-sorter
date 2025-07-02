@@ -2,8 +2,9 @@
 
 namespace AbdullahKaramDev\MigrationSorter;
 
+use AbdullahKaramDev\MigrationSorter\Commands\SortingMigration;
 use Illuminate\Support\ServiceProvider;
-use AbdullahKaramDev\MigrationSorter\Command\SortingMigrate;
+
 
 class MigrationSorterServiceProvider extends ServiceProvider
 {
@@ -22,7 +23,7 @@ class MigrationSorterServiceProvider extends ServiceProvider
     {
         if ($this->app->runningInConsole()) {
             $this->commands([
-                SortingMigrate::class,
+                SortingMigration::class,
             ]);
         }
     }
