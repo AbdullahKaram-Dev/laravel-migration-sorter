@@ -331,7 +331,7 @@ base + 1 second, etc.)
 
 ## License
 
-This package is open-sourced software licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+This package is open-sourced software licensed under the MIT license. See the [LICENSE](https://github.com/AbdullahKaram-Dev/laravel-migration-sorter/blob/master/LICENSE.md) file for more details.
 
 ## Support
 
