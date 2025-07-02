@@ -1,5 +1,5 @@
 {
-  "name": "laravel/laravel-migration-sorter",
+  "name": "abdullahkaram-dev/laravel-migration-sorter",
   "description": "Interactive Laravel migration file sorting with drag and drop functionality",
   "type": "library",
   "keywords": ["laravel", "migration", "sorting", "artisan", "command"],
@@ -22,13 +22,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Laravel\\MigrationSorter\\": "src/"
+      "AbdullahKaramDev\\MigrationSorter\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Laravel\\MigrationSorter\\MigrationSorterServiceProvider"
+        "AbdullahKaramDev\\MigrationSorter\\MigrationSorterServiceProvider"
       ]
     }
   },

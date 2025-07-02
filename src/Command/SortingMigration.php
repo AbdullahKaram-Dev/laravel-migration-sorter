@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Laravel\MigrationSorter\Command;
+namespace AbdullahKaramDev\MigrationSorter\Command;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Collection;
@@ -9,7 +9,7 @@ use Illuminate\Support\Number;
 use Illuminate\Support\Str;
 use Exception;
 
-class SortingMigrate extends Command
+class SortingMigration extends Command
 {
     protected $signature = 'rearrange-migrations';
 

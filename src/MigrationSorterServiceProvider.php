@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Laravel\MigrationSorter;
+namespace AbdullahKaramDev\MigrationSorter;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\MigrationSorter\Commands\SortingMigrate;
