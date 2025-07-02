@@ -73,7 +73,7 @@ timestamp regeneration.
 ### Via Composer
 
 ```bash
-composer require abdullahkaramdev/migration-sorter
+composer require abdullahkaram-dev/laravel-migration-sorter
 ```
 
 ### Manual Installation
@@ -83,7 +83,7 @@ composer require abdullahkaramdev/migration-sorter
 
 ```php
 protected $commands = [
-    \AbdullahKaramDev\MigrationSorter\Command\SortingMigration::class,
+    \AbdullahKaramDev\MigrationSorter\Commands\SortingMigration::class,
 ];
 ```
 
@@ -321,8 +321,7 @@ base + 1 second, etc.)
 
 1. Clone the repository
 2. Install dependencies: `composer install`
-3. Run tests: `php artisan test`
-4. Follow PSR-12 coding standards
+3. Follow PSR-12 coding standards
 
 ### Feature Requests
 
