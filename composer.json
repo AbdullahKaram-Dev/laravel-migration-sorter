@@ -3,12 +3,12 @@
   "description": "Interactive Laravel migration file sorting with drag and drop functionality",
   "type": "library",
   "keywords": ["laravel", "migration", "sorting", "artisan", "command"],
-  "homepage": "https://github.com/laravel/laravel-migration-sorter",
+  "homepage": "https://github.com/AbdullahKaram-Dev/laravel-migration-sorter",
   "license": "MIT",
   "authors": [
     {
-      "name": "Your Name",
-      "email": "your.email@example.com"
+      "name": "Abdullah Karam",
+      "email": "abdallakaramdev@gmail.com"
     }
   ],
   "require": {
