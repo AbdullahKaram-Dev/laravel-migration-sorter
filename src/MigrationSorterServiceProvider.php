@@ -3,7 +3,7 @@
 namespace AbdullahKaramDev\MigrationSorter;
 
 use Illuminate\Support\ServiceProvider;
-use Laravel\MigrationSorter\Commands\SortingMigrate;
+use AbdullahKaramDev\MigrationSorter\Command\SortingMigrate;
 
 class MigrationSorterServiceProvider extends ServiceProvider
 {
