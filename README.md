@@ -2,7 +2,7 @@
 
 An interactive Laravel command for sorting database migration files with drag-and-drop functionality and automatic timestamp regeneration.
 
-![Migration Sorter Interface](https://github.com/abdullahkaramdev/migration-sorter/blob/main/screenshot.png?raw=true)
+![Migration Sorter Interface](https://raw.githubusercontent.com/AbdullahKaram-Dev/laravel-migration-sorter/refs/heads/master/preview.webp)
 
 ## 🤔 Why Use This Command?
 
